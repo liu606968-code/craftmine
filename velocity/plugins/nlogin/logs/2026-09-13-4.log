@@ -1,0 +1,20 @@
+[2026/09/13 02:57:59 INFO]:           __             _       
+[2026/09/13 02:57:59 INFO]:   _ __   / /  ___   __ _(_)_ __  
+[2026/09/13 02:57:59 INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[2026/09/13 02:57:59 INFO]:  | | | / /__| (_) | (_| | | | | |
+[2026/09/13 02:57:59 INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[2026/09/13 02:57:59 INFO]:                   |___/            
+[2026/09/13 02:57:59 INFO]:  By: www.nickuc.com - V 2.0.19
+[2026/09/13 02:58:00 INFO]:  
+[2026/09/13 02:58:00 DEBUG]: Loading the messages_en.yml message file...
+[2026/09/13 02:58:00 DEBUG]: Messages were loaded in 427 ms (single file).
+[2026/09/13 02:58:00 DEBUG]: Settings were loaded in 661 ms.
+[2026/09/13 02:58:00 DEBUG]: Loading database...
+[2026/09/13 02:58:01 DEBUG]: Starting logger filter...
+[2026/09/13 02:58:01 INFO]: Loading packetevents-velocity 2.13.0...
+[2026/09/13 02:58:43 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ironmanLJM', `unique_id` = d00c14c99ee33788b053a1de57b43b72,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$cV1I4x/4v2rpZppSpiSf+Q$aSKt9z1JsOhc50u2apJC4yxw04ExW/N/ThxC+bwFvy4', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2026-09-09 03:37:34.079, `last_seen` = 2026-09-13 02:58:43.423, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_ip, last_seen, settings] columns)
+[2026/09/13 02:58:43 INFO]: The user ironmanLJM has successfully logged in.
+[2026/09/13 03:30:22 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ironmanLJM', `unique_id` = d00c14c99ee33788b053a1de57b43b72,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$cV1I4x/4v2rpZppSpiSf+Q$aSKt9z1JsOhc50u2apJC4yxw04ExW/N/ThxC+bwFvy4', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2026-09-09 03:37:34.079, `last_seen` = 2026-09-13 03:30:22.559, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_seen, settings] columns)
+[2026/09/13 03:50:13 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ironmanLJM', `unique_id` = d00c14c99ee33788b053a1de57b43b72,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$cV1I4x/4v2rpZppSpiSf+Q$aSKt9z1JsOhc50u2apJC4yxw04ExW/N/ThxC+bwFvy4', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2026-09-09 03:37:34.079, `last_seen` = 2026-09-13 03:50:13.755, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_ip, last_seen, settings] columns)
+[2026/09/13 03:50:13 INFO]: The user ironmanLJM has successfully logged in.
+[2026/09/13 03:53:39 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ironmanLJM', `unique_id` = d00c14c99ee33788b053a1de57b43b72,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$cV1I4x/4v2rpZppSpiSf+Q$aSKt9z1JsOhc50u2apJC4yxw04ExW/N/ThxC+bwFvy4', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2026-09-09 03:37:34.079, `last_seen` = 2026-09-13 03:53:39.523, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_seen, settings] columns)
