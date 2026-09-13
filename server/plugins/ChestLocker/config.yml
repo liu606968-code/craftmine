@@ -1,0 +1,74 @@
+# ChestLocker configuration
+
+# Maximum number of containers (chests, barrels, shulker boxes, copper
+# chests - all counted together) a single player is
+# allowed to lock. Set to -1 for unlimited.
+max-locks-per-player: 10
+
+# Should players be able to craft the Chest Key at all? Set to false to
+# disable the recipe entirely (you can still give keys via /cl give).
+key-craftable: true
+
+# Should locked containers be protected from explosions (TNT, creepers, beds, etc.)?
+protect-from-explosions: true
+
+# Should hoppers/droppers/pipes be blocked from moving items in or out of locked containers?
+protect-from-hoppers: true
+
+# Should the Chest Key have the "enchanted" glow effect so it stands out
+# from a normal Tripwire Hook?
+key-glowing: true
+
+# Stained glass color used for the number buttons in the PIN pad GUI.
+# Must be a valid "*_STAINED_GLASS_PANE" material name.
+pin-pad-glass-color: LIGHT_BLUE_STAINED_GLASS_PANE
+
+# Number of digits in a PIN. Must be between 3 and 7 (default: 5).
+pin-length: 5
+
+# Escalating cooldown applied after too many wrong PIN attempts in a row
+# (counted per player, across any container, reset on a correct entry).
+pin-cooldown:
+  enabled: true
+  # List of "attempts:seconds" pairs. When the number of consecutive
+  # wrong attempts reaches a listed value, the player is locked out of
+  # entering any more PINs for that many seconds. Once the highest
+  # listed threshold is reached, it keeps being re-applied on every
+  # further wrong attempt as a safety net.
+  thresholds:
+    - "5:5"      # 5 wrong attempts   -> 5 second lockout
+    - "10:300"   # 10 wrong attempts  -> 5 minute lockout
+    - "15:900"   # 15 wrong attempts  -> 15 minute lockout
+
+# Once a player enters the correct PIN to OPEN a container, they won't
+# be asked again for a while - convenient so people don't have to
+# retype the PIN every single time they open the same chest. This
+# trust ALWAYS resets when the player logs out, and ALWAYS resets the
+# instant that specific container's PIN is changed, no matter what is
+# configured below. It does NOT apply to changing or destroying a
+# container - those always require a fresh, real PIN entry.
+pin-session:
+  enabled: true
+  # How many minutes the "already verified" trust lasts since it was
+  # last used (using it again refreshes the timer). Set to 0 to only
+  # rely on the logout/PIN-change resets above (never expires on its
+  # own otherwise). Set enabled to false to always require the PIN.
+  duration-minutes: 30
+
+# Automatically remove a PIN lock if its owner has been offline for a
+# long time. Disabled by default - enable it deliberately if you want
+# "abandoned" locked containers to become accessible again over time.
+lock-expiry:
+  enabled: false
+  # How many hours of the owner being offline before the lock expires.
+  # Examples: 24 = 1 day, 168 = 1 week, 720 = 30 days.
+  hours: 720
+  # How often (in minutes) to scan for and purge expired locks.
+  check-interval-minutes: 60
+  # How often (in minutes) to refresh the "last seen" timestamp for
+  # every currently online player. Without this, a player who logs in
+  # and then simply never logs out for hours/days would keep showing
+  # their old pre-login timestamp the whole time. This updates everyone
+  # online in a single batched file write, so it stays very cheap even
+  # with many players online - no need to lower it much below the default.
+  online-heartbeat-minutes: 15
