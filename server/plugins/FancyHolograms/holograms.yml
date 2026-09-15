@@ -1,1 +1,68 @@
 version: 2 # DO NOT CHANGE
+holograms:
+  Spawn:
+    type: TEXT
+    location:
+      world: world
+      x: -18.92667007446289
+      y: 105.15814971923828
+      z: -38.1548957824707
+      yaw: -70.0
+      pitch: 50.933834
+    visibility_distance: 15
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - <gradient:blue:#ff0000>Welcome to Fish Stick!</gradient>
+    - 'Please Read The Rules:'
+    text_shadow: true
+    see_through: true
+    text_alignment: center
+    update_text_interval: -1
+    background: '#60000000'
+    block_brightness: 0
+    sky_brightness: 15
+    billboard: horizontal
+  Rules:
+    type: TEXT
+    location:
+      world: world
+      x: -19.306907653808594
+      y: 103.66350555419922
+      z: -38.371421813964844
+      yaw: -70.0
+      pitch: 14.70586
+    visibility_distance: 15
+    visibility: ALL
+    persistent: true
+    scale_x: 0.7
+    scale_y: 0.7
+    scale_z: 0.7
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - You have a LIMMITED amount of lives
+    - No naked killing, griefing, stealing from other peoples chests
+    - You must NOT get materials in spawn
+    - If you catch someone breaking the rules report it
+    - and you will get a reward
+    - No Abusing glitches, x-ray, cheat
+    - Have fun!
+    - ALSO SPAWN IS 300 BLOCKS TO EVERY DIRECTION FROM 0,0
+    - do /rtp to get started
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1

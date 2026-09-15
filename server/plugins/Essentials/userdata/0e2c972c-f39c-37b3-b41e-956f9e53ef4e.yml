@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1789463283374
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1789463398581
+  login: 1789462322256
+money: '0'
+last-account-name: Dill_Pickle_
+lastlocation:
+  world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
+  world-name: world
+  x: -11.300000011920929
+  y: 66.0
+  z: -138.69999998807907
+  yaw: 129.9544677734375
+  pitch: 6.8999857902526855
+homes:
+  home:
+    world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
+    world-name: world
+    x: -99.24959002633085
+    y: 110.0
+    z: -110.95358404753765
+    yaw: -152.90013122558594
+    pitch: 25.79999351501465
+logoutlocation:
+  world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
+  world-name: world
+  x: -10.36622155057911
+  y: 93.0
+  z: -166.22328602276167
+  yaw: -130.8501434326172
+  pitch: 57.29997634887695

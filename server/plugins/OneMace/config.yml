@@ -14,8 +14,11 @@ settings:
 # Used to prevent crafting if the Mace still exists in an offline player’s possession.
 # This is automatically updated when a player logs out or the server shuts down.
 offline_inventory:
-  41942e52-3953-35f5-95f8-cfdda10d1924: false
   d00c14c9-9ee3-3788-b053-a1de57b43b72: true
+  c7354076-f910-3f83-8e34-cbe09ec4023d: false
+  dba1242f-2214-311a-95f1-b5aff9e687d7: false
+  41942e52-3953-35f5-95f8-cfdda10d1924: false
+  0e2c972c-f39c-37b3-b41e-956f9e53ef4e: false
   f7b02e42-9974-3b87-83a1-7ff87122c29a: false
 
 # Customizable messages
