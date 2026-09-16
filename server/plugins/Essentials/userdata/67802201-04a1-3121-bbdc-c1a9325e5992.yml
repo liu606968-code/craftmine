@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1789522074801
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1789522259316
+  login: 1789522004369
+money: '0'
+last-account-name: WaveFire0110
+lastlocation:
+  world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
+  world-name: world
+  x: 1618.9034293902496
+  y: 70.0
+  z: -118.90304861556656
+  yaw: 113.55044555664062
+  pitch: 11.849994659423828
+logoutlocation:
+  world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
+  world-name: world
+  x: -16.623160711589957
+  y: 103.0
+  z: -37.528889725903326
+  yaw: 97.25334930419922
+  pitch: 13.910067558288574
