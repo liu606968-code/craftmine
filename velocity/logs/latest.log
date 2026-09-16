@@ -90,3 +90,26 @@ javax.imageio.IIOException: Can't read input file!
 [03:35:12] [Netty epoll Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
 [03:35:12] [nAntiBot - Task Executor #0/INFO] [nantibot]: Connecting to the remote server antibot.nickuc.com...
 [03:35:12] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (12.05s)!
+[04:03:51] [Shutdown thread/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
+[04:03:51] [Shutdown thread/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25565
+[04:03:51] [EaglercraftXServer - Task Executor #1/INFO] [eaglerxserver]: Disabling EaglercraftXServer 1.1.1...
+[04:03:51] [EaglercraftXServer - Task Executor #1/INFO] [eaglerxserver]: Disconnecting from skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
+[04:03:51] [EaglercraftXServer - Task Executor #1/INFO] [eaglerxserver]: Disconnected from skin cache database successfully!
+[04:03:51] [EaglercraftXServer - Task Executor #1/INFO] [nantibot]: Successful plugin core shutdown (took 0.01s)
+[04:03:51] [EaglercraftXServer - Task Executor #1/INFO] [nantibot]: Disconnecting from remote server...
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: Exception in thread "main" java.lang.IllegalStateException: Terminal has been closed
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.terminal.impl.AbstractTerminal.checkClosed(AbstractTerminal.java:796)
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.terminal.impl.AbstractUnixSysTerminal.writer(AbstractUnixSysTerminal.java:207)
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.utils.Display.update(Display.java:771)
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.redisplay(LineReaderImpl.java:3924)
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.doCleanup(LineReaderImpl.java:2535)
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.cleanup(LineReaderImpl.java:2526)
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:727)
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
+[04:03:51] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at com.velocitypowered.proxy.Velocity.main(Velocity.java:77)
+[04:03:53] [EaglercraftXServer - Task Executor #1/INFO] [nlogin]: Successful plugin core shutdown (took 0.00s)
+[04:03:53] [EaglercraftXServer - Task Executor #1/INFO] [luckperms]: Starting shutdown process...
+[04:03:53] [EaglercraftXServer - Task Executor #1/INFO] [luckperms]: Closing storage...
+[04:03:53] [EaglercraftXServer - Task Executor #1/INFO] [luckperms]: Goodbye!
