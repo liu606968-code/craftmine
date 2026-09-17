@@ -66,11 +66,23 @@
 # Used only by the optional lock-expiry feature - safe to ignore otherwise.
 # Format: yyyy-MM-dd HH:mm:ss
 
-Vyqzren: '2026-09-16 01:38:07'
-ironmanLJM: '2026-09-16 01:29:26'
-Dill_Pickle_: '2026-09-16 01:40:18'
-dark67: '2026-09-16 01:48:35'
+# Records when each player was last seen online (server local time).
+# Used only by the optional lock-expiry feature - safe to ignore otherwise.
+# Format: yyyy-MM-dd HH:mm:ss
+
+# Records when each player was last seen online (server local time).
+# Used only by the optional lock-expiry feature - safe to ignore otherwise.
+# Format: yyyy-MM-dd HH:mm:ss
+
+# Records when each player was last seen online (server local time).
+# Used only by the optional lock-expiry feature - safe to ignore otherwise.
+# Format: yyyy-MM-dd HH:mm:ss
+
+Vyqzren: '2026-09-16 06:49:08'
+ironmanLJM: '2026-09-16 07:23:25'
+Dill_Pickle_: '2026-09-16 06:39:02'
+dark67: '2026-09-16 07:23:39'
 I_am_bob_wow: '2026-09-16 01:40:16'
-blueberryhill: '2026-09-16 01:31:01'
-WaveFire0110: '2026-09-16 01:30:59'
+blueberryhill: '2026-09-16 05:43:35'
+WaveFire0110: '2026-09-16 04:52:59'
 sunny_321_sun: '2026-09-16 00:22:39'

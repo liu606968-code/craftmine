@@ -54,8 +54,9 @@ holograms:
     billboard: fixed
     text:
     - You have a LIMMITED amount of lives
-    - No naked killing, griefing, stealing from other peoples chests
-    - You must NOT get materials in spawn
+    - No killing unless challenged to a 1v1 or challenge someone to 1v1 and they accept,
+      no griefing, stealing from other peoples chests
+    - You must NOT get materials in spawn and you MUST build your base in spawn
     - If you catch someone breaking the rules report it
     - and you will get a reward
     - No Abusing glitches, x-ray, cheat
