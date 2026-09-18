@@ -1,24 +1,11 @@
 locks:
-  world,-20,104,-15:
+  world,-9,103,-2:
     owner: ironmanLJM
     pin: '15937'
-  world,-20,103,-15:
+  world,-10,103,-2:
+    linkedTo: world,-9,103,-2
+  world,-11,103,-2:
     owner: ironmanLJM
     pin: '15937'
-  world,-20,103,-14:
-    linkedTo: world,-20,103,-15
-  world,-20,104,-13:
-    owner: ironmanLJM
-    pin: '15937'
-  world,-20,104,-12:
-    linkedTo: world,-20,104,-13
-  world,-20,103,-13:
-    owner: ironmanLJM
-    pin: '15937'
-  world,-20,103,-12:
-    linkedTo: world,-20,103,-13
-  world,-20,103,-11:
-    owner: ironmanLJM
-    pin: '15937'
-  world,-20,103,-10:
-    linkedTo: world,-20,103,-11
+  world,-12,103,-2:
+    linkedTo: world,-11,103,-2

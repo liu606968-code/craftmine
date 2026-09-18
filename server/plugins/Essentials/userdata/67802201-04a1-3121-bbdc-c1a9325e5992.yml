@@ -17,8 +17,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1789534379956
-  login: 1789534290759
+  logout: 1789699682321
+  login: 1789699561249
 money: '0'
 last-account-name: WaveFire0110
 lastlocation:
@@ -32,11 +32,11 @@ lastlocation:
 logoutlocation:
   world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
   world-name: world
-  x: -16.537429307247667
-  y: 101.0
-  z: -107.53082320708324
-  yaw: 173.7532196044922
-  pitch: 26.810060501098633
+  x: -16.751977604257334
+  y: 103.0
+  z: -42.17900088591004
+  yaw: -1.7467041015625
+  pitch: 12.710052490234375
 homes:
   home:
     world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8

@@ -11,10 +11,14 @@
 #
 regions:
     spawn:
-        min: {x: -38, y: 102, z: -38}
-        max: {x: 13, y: 102, z: 8}
-        members: {}
-        flags: {}
-        owners: {}
+        min: {x: -36, y: 102, z: -40}
+        max: {x: 9, y: 132, z: 4}
+        members:
+            unique-ids: [d00c14c9-9ee3-3788-b053-a1de57b43b72]
+        flags: {use: deny, greeting: You are now entering MY CASTLE SO GET OUT, block-break: deny,
+            interact: deny, lighter: deny, chest-access: deny, tnt: deny, block-place: deny,
+            mob-spawning: deny}
+        owners:
+            unique-ids: [d00c14c9-9ee3-3788-b053-a1de57b43b72]
         type: cuboid
         priority: 0

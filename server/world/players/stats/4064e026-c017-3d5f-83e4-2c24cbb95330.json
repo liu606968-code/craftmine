@@ -1,51 +1,5 @@
 {
   "stats": {
-    "minecraft:mined": {
-      "minecraft:short_grass": 3,
-      "minecraft:crafting_table": 1,
-      "minecraft:oak_log": 6,
-      "minecraft:copper_ore": 3
-    },
-    "minecraft:crafted": {
-      "minecraft:stick": 16,
-      "minecraft:oak_planks": 24,
-      "minecraft:cooked_mutton": 9,
-      "minecraft:crafting_table": 1
-    },
-    "minecraft:custom": {
-      "minecraft:interact_with_crafting_table": 1,
-      "minecraft:time_since_rest": 2059,
-      "minecraft:walk_one_cm": 16786,
-      "minecraft:leave_game": 3,
-      "minecraft:mob_kills": 8,
-      "minecraft:damage_taken": 600,
-      "minecraft:damage_dealt": 831,
-      "minecraft:play_time": 18272,
-      "minecraft:jump": 196,
-      "minecraft:time_since_death": 2039,
-      "minecraft:drop": 3,
-      "minecraft:interact_with_furnace": 3,
-      "minecraft:sprint_one_cm": 31561,
-      "minecraft:open_chest": 1,
-      "minecraft:fall_one_cm": 11900,
-      "minecraft:total_world_time": 18272,
-      "minecraft:fly_one_cm": 41842,
-      "minecraft:sneak_time": 3,
-      "minecraft:deaths": 2
-    },
-    "minecraft:picked_up": {
-      "minecraft:oak_log": 6,
-      "minecraft:white_wool": 6,
-      "minecraft:wheat_seeds": 2,
-      "minecraft:mutton": 13,
-      "minecraft:light_gray_wool": 1,
-      "minecraft:crafting_table": 1,
-      "minecraft:bone": 1,
-      "minecraft:raw_copper": 10
-    },
-    "minecraft:killed_by": {
-      "minecraft:skeleton": 1
-    },
     "minecraft:used": {
       "minecraft:stone_axe": 7,
       "minecraft:stone_sword": 22,
@@ -54,12 +8,60 @@
       "minecraft:oak_planks": 6,
       "minecraft:stone_pickaxe": 3
     },
+    "minecraft:crafted": {
+      "minecraft:stick": 16,
+      "minecraft:oak_planks": 24,
+      "minecraft:cooked_mutton": 9,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:oak_log": 6,
+      "minecraft:cobblestone": 1,
+      "minecraft:white_wool": 6,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:mutton": 13,
+      "minecraft:light_gray_wool": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:bone": 1,
+      "minecraft:raw_copper": 10
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 3,
+      "minecraft:crafting_table": 1,
+      "minecraft:oak_log": 6,
+      "minecraft:copper_ore": 3
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 20,
+      "minecraft:walk_one_cm": 25534,
+      "minecraft:leave_game": 5,
+      "minecraft:mob_kills": 8,
+      "minecraft:damage_taken": 1080,
+      "minecraft:damage_dealt": 831,
+      "minecraft:play_time": 22924,
+      "minecraft:jump": 406,
+      "minecraft:time_since_death": 0,
+      "minecraft:drop": 3,
+      "minecraft:interact_with_furnace": 4,
+      "minecraft:sprint_one_cm": 54702,
+      "minecraft:open_chest": 1,
+      "minecraft:fall_one_cm": 21700,
+      "minecraft:total_world_time": 22924,
+      "minecraft:fly_one_cm": 91326,
+      "minecraft:sneak_time": 3,
+      "minecraft:deaths": 4
+    },
     "minecraft:dropped": {
       "minecraft:raw_copper": 10,
       "minecraft:wheat_seeds": 2
     },
     "minecraft:killed": {
       "minecraft:sheep": 7
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 2,
+      "minecraft:zombie": 1
     }
   },
   "DataVersion": 4903
