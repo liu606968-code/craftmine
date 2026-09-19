@@ -324,3 +324,54 @@
 1789698496022:say also
 1789698499084:say RESTART
 1789698502335:stop
+1789775063975:whitelist add ItzPulse
+1789775504571:whitelist off
+1789775708205:stop
+1789775813614:whitelist on
+1789775876039:whitelistplayer Dill_Pickle_
+1789775879776:whitelistplayer Dill_Pickle
+1789775885386:whitelistplayer add Dill_Pickle_
+1789775897088:whitelistplayer add sunny_321_sun
+1789775904849:whitelistplayer add dark67
+1789775910922:whitelistplayer add WaveFire0110
+1789775917647:whitelistplayer add Vyqzren
+1789775924209:whitelistplayer add I_am_bob_wow
+1789775932369:whitelistplayer add fishfaceflop
+1789775939872:whitelistplayer add blueberryhill
+1789775945012:whitelistplayer add ItzPulse
+1789776003177:stop
+1789778619104:luckperms edit
+1789778626801:luckperms editor
+1789778655047:luckperms trusteditor 14cc-8fd3
+1789778862526:lp group admin permission set * true
+1789778880678:lp group default permission set minecraft.command.msg true
+1789778912761:lp group default permission set flecstonepulse.command.anon false\nlp group default permission set flecstonepulse.command.ball false\nlp group default permission set flecstonepulse.command.broadcast false\nlp group default permission set flecstonepulse.command.coin false\nlp group default permission set flecstonepulse.command.dice false\nlp group default permission set flecstonepulse.command.do false\nlp group default permission set flecstonepulse.command.me false\nlp group default permission set flecstonepulse.command.poll false\nlp group default permission set flecstonepulse.command.rockpaperscissors false\nlp group default permission set flecstonepulse.command.stream false\nlp group default permission set flecstonepulse.command.tell false\nlp group default permission set flecstonepulse.command.tictactoe false\nlp group default permission set flecstonepulse.command.try false\nlp group default permission set flecstonepulse.command.chatsetting false
+1789778924298:deop ironmanLJM
+1789778947223:op ironmanLJM
+1789778974876:lp group default permission set flecstonepulse.command.anon false
+1789778982809:lp group default permission set flecstonepulse.command.ball false
+1789778991557:lp group default permission set flecstonepulse.command.broadcast false
+1789778998757:lp group default permission set flecstonepulse.command.coin false
+1789779003767:lp group default permission set flecstonepulse.command.dice false
+1789779009646:lp group default permission set flecstonepulse.command.do false
+1789779015403:lp group default permission set flecstonepulse.command.me false
+1789779020582:lp group default permission set flecstonepulse.command.poll false
+1789779026469:lp group default permission set flecstonepulse.command.rockpaperscissors false
+1789779031503:lp group default permission set flecstonepulse.command.stream false
+1789779041791:lp group default permission set flecstonepulse.command.tell false
+1789779047497:lp group default permission set flecstonepulse.command.tictactoe false
+1789779053233:lp group default permission set flecstonepulse.command.try false
+1789779058393:lp group default permission set flecstonepulse.command.chatsetting false
+1789779180570:deop ironmanLJM
+1789779192386:op ironmanLJM
+1789779252183:lp group admin permission set * true
+1789779368083:lp group default permission set flectonepulse.module.command.* false
+1789779387079:deop ironmanLJM
+1789779620329:say GUESS WHAT
+1789779625270:say RESTART!!!!!!!!!!
+1789779626941:stop
+1789779791796:flectonepulse reload
+1789780079815:say yo dill
+1789780092453:say u can just talk now u dont have to msg
+1789780098330:say yes i can
+1789780103112:say i fixed it :D

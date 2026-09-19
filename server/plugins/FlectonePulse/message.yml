@@ -103,7 +103,7 @@ chat:
   priority: "NORMAL"
   types:
     local:
-      enable: true
+      enable: false
       cancel: true
       range: 100
       priority: 0
@@ -125,7 +125,7 @@ chat:
       cancel: false
       range: "PROXY"
       priority: 5
-      trigger: "!"
+      trigger: ""
       null_receiver:
         enable: true
         destination:
