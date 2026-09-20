@@ -1,0 +1,17 @@
+[2026/09/20 22:51:54 INFO]:           __             _       
+[2026/09/20 22:51:54 INFO]:   _ __   / /  ___   __ _(_)_ __  
+[2026/09/20 22:51:54 INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[2026/09/20 22:51:54 INFO]:  | | | / /__| (_) | (_| | | | | |
+[2026/09/20 22:51:54 INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[2026/09/20 22:51:54 INFO]:                   |___/            
+[2026/09/20 22:51:54 INFO]:  By: www.nickuc.com - V 2.0.19
+[2026/09/20 22:51:54 INFO]:  
+[2026/09/20 22:51:54 DEBUG]: Loading the messages_en.yml message file...
+[2026/09/20 22:51:54 DEBUG]: Messages were loaded in 332 ms (single file).
+[2026/09/20 22:51:54 DEBUG]: Settings were loaded in 436 ms.
+[2026/09/20 22:51:54 DEBUG]: Loading database...
+[2026/09/20 22:51:55 DEBUG]: Starting logger filter...
+[2026/09/20 22:51:55 INFO]: Loading packetevents-velocity 2.13.0...
+[2026/09/20 22:51:59 INFO]: Download finished (signature = OK, hash = d608cd5cab5f2930e6ff0c660f2f7656c47ab0d483212c213f770504fce0822f, took 5083ms)
+[2026/09/20 22:52:16 INFO]: Update was successfully queued, do not forcibly stop your server. (v2.0.19 e06d80 => v2.0.21 835935)
+[2026/09/20 22:52:16 INFO]: Successful plugin core shutdown (took 0.17s)
