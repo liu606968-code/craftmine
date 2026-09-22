@@ -34,7 +34,7 @@ profiler:
 # Automatically clears dropped items and certain entities from the world.
 auto-clear:
   enabled: true
-  interval-seconds: 180 # Time in seconds between each clear
+  interval-seconds: 300 # Time in seconds between each clear
   clear-items: true
   clear-entities: false # Set to true to clear all entities (excluding players, item frames, etc.)
   use-exclude-lists: true # true = lists are blacklist, false = lists are whitelist
