@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1790037639339
+  login: 1790037619072
+money: '0'
+last-account-name: DarverEagl7908
+lastlocation:
+  world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
+  world-name: world
+  x: -20.5
+  y: 111.0
+  z: -28.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
+  world-name: world
+  x: -17.478855729623433
+  y: 101.0
+  z: -95.57532329807105
+  yaw: -177.546630859375
+  pitch: 10.460063934326172

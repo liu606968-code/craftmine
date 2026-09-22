@@ -9,8 +9,8 @@
 #        \/           \/
 #
 # Don't change it if you don't know what it is
-server: "9ea54d68-8b7f-4b40-b881-4a9b4cdaf523"
-version: "1.13.1"
+server: "a8efd201-ea8f-4828-bd8d-8dac5a7e2fff"
+version: "1.14.0"
 # https://flectone.net/pulse/docs/config/language
 language:
   type: "en_us"

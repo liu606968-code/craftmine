@@ -130,12 +130,29 @@
 # Used only by the optional lock-expiry feature - safe to ignore otherwise.
 # Format: yyyy-MM-dd HH:mm:ss
 
-Vyqzren: '2026-09-21 04:52:46'
-ironmanLJM: '2026-09-21 04:52:42'
-Dill_Pickle_: '2026-09-21 04:53:17'
+# Records when each player was last seen online (server local time).
+# Used only by the optional lock-expiry feature - safe to ignore otherwise.
+# Format: yyyy-MM-dd HH:mm:ss
+
+# Records when each player was last seen online (server local time).
+# Used only by the optional lock-expiry feature - safe to ignore otherwise.
+# Format: yyyy-MM-dd HH:mm:ss
+
+# Records when each player was last seen online (server local time).
+# Used only by the optional lock-expiry feature - safe to ignore otherwise.
+# Format: yyyy-MM-dd HH:mm:ss
+
+# Records when each player was last seen online (server local time).
+# Used only by the optional lock-expiry feature - safe to ignore otherwise.
+# Format: yyyy-MM-dd HH:mm:ss
+
+Vyqzren: '2026-09-22 01:25:51'
+ironmanLJM: '2026-09-22 01:46:28'
+Dill_Pickle_: '2026-09-22 01:38:55'
 dark67: '2026-09-19 01:06:54'
-I_am_bob_wow: '2026-09-21 04:43:07'
-blueberryhill: '2026-09-21 03:56:20'
+I_am_bob_wow: '2026-09-22 02:15:58'
+blueberryhill: '2026-09-22 01:44:25'
 WaveFire0110: '2026-09-18 02:48:02'
-sunny_321_sun: '2026-09-17 02:53:45'
+sunny_321_sun: '2026-09-22 01:00:23'
 ItzPulse: '2026-09-19 01:03:58'
+DarverEagl7908: '2026-09-22 00:40:39'

@@ -7,7 +7,7 @@ update-check:
   enabled: true
 
 # Number of protections
-death-protections-number: 3
+death-protections-number: 5
 default-added-protections-number: 0
 
 # Does the game warn players when they have only a few protection opportunities left?
