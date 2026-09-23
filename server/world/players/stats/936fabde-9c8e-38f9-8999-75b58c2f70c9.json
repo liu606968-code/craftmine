@@ -1,0 +1,88 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 3,
+      "minecraft:cherry_log": 13,
+      "minecraft:sand": 16,
+      "minecraft:cherry_planks": 3,
+      "minecraft:dirt": 13,
+      "minecraft:oak_log": 5,
+      "minecraft:coal_ore": 12,
+      "minecraft:grass_block": 15,
+      "minecraft:pink_petals": 6,
+      "minecraft:stone": 17
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 28,
+      "minecraft:cobblestone": 17,
+      "minecraft:stone_shovel": 1,
+      "minecraft:cherry_log": 13,
+      "minecraft:coal": 12,
+      "minecraft:stone_pickaxe": 2,
+      "minecraft:oak_log": 5,
+      "minecraft:wooden_axe": 1,
+      "minecraft:stone_sword": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:sand": 33,
+      "minecraft:birch_planks": 7,
+      "minecraft:cherry_planks": 3,
+      "minecraft:birch_stairs": 4,
+      "minecraft:pink_petals": 13
+    },
+    "minecraft:dropped": {
+      "minecraft:stone_shovel": 1,
+      "minecraft:sand": 16,
+      "minecraft:stone_sword": 1,
+      "minecraft:stone_axe": 2,
+      "minecraft:stone_pickaxe": 2,
+      "minecraft:dirt": 9,
+      "minecraft:pink_petals": 13
+    },
+    "minecraft:used": {
+      "minecraft:stone_shovel": 2,
+      "minecraft:stone_sword": 16,
+      "minecraft:crafting_table": 1,
+      "minecraft:chest": 2,
+      "minecraft:furnace": 1,
+      "minecraft:stone_pickaxe": 75,
+      "minecraft:dirt": 19,
+      "minecraft:cherry_planks": 3,
+      "minecraft:cobblestone": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 5,
+      "minecraft:time_since_rest": 54331,
+      "minecraft:walk_one_cm": 231856,
+      "minecraft:leave_game": 3,
+      "minecraft:walk_under_water_one_cm": 3190,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 150,
+      "minecraft:play_time": 54331,
+      "minecraft:damage_dealt": 480,
+      "minecraft:jump": 480,
+      "minecraft:time_since_death": 54331,
+      "minecraft:drop": 32,
+      "minecraft:interact_with_furnace": 4,
+      "minecraft:sprint_one_cm": 61796,
+      "minecraft:open_chest": 6,
+      "minecraft:fall_one_cm": 5420,
+      "minecraft:total_world_time": 54331,
+      "minecraft:swim_one_cm": 206,
+      "minecraft:fly_one_cm": 6889,
+      "minecraft:walk_on_water_one_cm": 8130
+    },
+    "minecraft:crafted": {
+      "minecraft:furnace": 1,
+      "minecraft:oak_planks": 20,
+      "minecraft:cherry_planks": 36,
+      "minecraft:chest": 2,
+      "minecraft:glass": 17,
+      "minecraft:glass_pane": 16,
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 4903
+}
