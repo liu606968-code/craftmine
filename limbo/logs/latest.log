@@ -489,3 +489,9 @@
 [04:00:38] [Server thread/WARN]: Vyqzren moved too quickly! 0.0,-10.718660955046289,0.0
 [04:00:39] [Server thread/INFO]: Vyqzren lost connection: Disconnected
 [04:00:39] [Server thread/INFO]: Vyqzren left the game
+[04:02:48] [User Authenticator #71/INFO]: UUID of player Krisha is cfca5747-d82a-3b57-8ccf-68ea2a6599f2
+[04:02:49] [Server thread/INFO]: Krisha joined the game
+[04:02:49] [Server thread/INFO]: Krisha[/[0:0:0:0:0:0:0:1]:45588] logged in with entity id 72 at ([minecraft:overworld]8.5, -5600.475269877099, 8.5)
+[04:02:56] [Server thread/WARN]: Krisha moved too quickly! 0.0,-11.11876798999947,0.0
+[04:03:00] [Server thread/INFO]: Krisha lost connection: Disconnected
+[04:03:01] [Server thread/INFO]: Krisha left the game
