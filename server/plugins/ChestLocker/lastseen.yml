@@ -166,9 +166,13 @@
 # Used only by the optional lock-expiry feature - safe to ignore otherwise.
 # Format: yyyy-MM-dd HH:mm:ss
 
+# Records when each player was last seen online (server local time).
+# Used only by the optional lock-expiry feature - safe to ignore otherwise.
+# Format: yyyy-MM-dd HH:mm:ss
+
 Vyqzren: '2026-09-22 08:23:49'
-ironmanLJM: '2026-09-22 08:12:49'
-Dill_Pickle_: '2026-09-22 08:38:40'
+ironmanLJM: '2026-09-22 23:19:27'
+Dill_Pickle_: '2026-09-22 23:18:53'
 dark67: '2026-09-19 01:06:54'
 I_am_bob_wow: '2026-09-22 08:14:07'
 blueberryhill: '2026-09-22 04:09:02'

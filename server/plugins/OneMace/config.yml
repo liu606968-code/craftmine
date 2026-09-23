@@ -20,11 +20,11 @@ offline_inventory:
   fa982166-b3b0-311b-8a91-626d17a3972a: false
   4064e026-c017-3d5f-83e4-2c24cbb95330: false
   c7354076-f910-3f83-8e34-cbe09ec4023d: false
-  d00c14c9-9ee3-3788-b053-a1de57b43b72: true
   b8e39939-61ea-3cff-be5a-8e05498cb70c: false
   dba1242f-2214-311a-95f1-b5aff9e687d7: false
   cfca5747-d82a-3b57-8ccf-68ea2a6599f2: false
   0e2c972c-f39c-37b3-b41e-956f9e53ef4e: false
+  d00c14c9-9ee3-3788-b053-a1de57b43b72: true
 
 # Customizable messages
 messages:
