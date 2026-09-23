@@ -17,8 +17,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1790130632637
-  login: 1790127752405
+  logout: 1790139215152
+  login: 1790138815229
 money: '0'
 last-account-name: Veer10
 lastlocation:
@@ -32,11 +32,11 @@ lastlocation:
 logoutlocation:
   world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
   world-name: world
-  x: 10.331880552275777
-  y: 83.0
-  z: -152.32890450833986
-  yaw: 0.8223876953125
-  pitch: 56.5499382019043
+  x: -1.6097123883760984
+  y: 84.0
+  z: -154.66505098628616
+  yaw: -87.22552490234375
+  pitch: 64.35001373291016
 homes:
   home:
     world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8

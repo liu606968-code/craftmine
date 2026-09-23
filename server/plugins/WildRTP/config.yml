@@ -17,8 +17,8 @@ lang: en
 # Custom settings per world can be defined in the custom section
 global:
   # Min & max teleportation range
-  min: 1000
-  max: 2500
+  min: 0
+  max: 300
   
   # Shape of the teleportation area [CIRCLE/SQUARE]
   shape: CIRCLE
@@ -32,7 +32,7 @@ global:
   # Cooldown settings
   cooldown:
     enabled: true # Enable cooldown between RTP uses
-    time: 5 # Cooldown time in seconds
+    time: 300 # Cooldown time in seconds
   
   # Move timer settings
   movetimer:

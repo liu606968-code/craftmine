@@ -1,7 +1,7 @@
 teleportenabled: true
 teleportauto: false
 godmode: false
-flymode: false
+flymode: true
 muted: false
 jailed: false
 ip-address: 0:0:0:0:0:0:0:1
@@ -12,31 +12,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1790135361841
+  lastteleport: 1790145508220
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1790135471687
-  login: 1790134774397
+  logout: 1790145509834
+  login: 1790144902299
 money: '0'
 last-account-name: ironmanLJM
 logoutlocation:
   world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
   world-name: world
-  x: -29.307536004741944
-  y: 101.0
-  z: -86.94290588291406
-  yaw: -55.463966369628906
-  pitch: 40.33251953125
+  x: -13.5
+  y: 103.0
+  z: -35.5
+  yaw: -171.827392578125
+  pitch: 8.779093742370605
 lastlocation:
   world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
   world-name: world
-  x: -53.88282718640569
-  y: 50.78292433427818
-  z: -79.0534349157512
-  yaw: 179.12608337402344
-  pitch: 44.17238998413086
+  x: -14.341852463846005
+  y: 52.66144181685249
+  z: -124.59447518872813
+  yaw: -95.20895385742188
+  pitch: 8.967813491821289
 homes:
   home:
     world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
@@ -46,3 +46,11 @@ homes:
     z: 6984.632853004051
     yaw: -28.780426025390625
     pitch: 19.38037109375
+  nether:
+    world: 980f2570-de0f-4ed3-bcc7-76f2c4762f46
+    world-name: world_nether
+    x: -47.78396756921755
+    y: 10.0
+    z: -187.79005923737867
+    yaw: 5.195068359375
+    pitch: 18.462188720703125
